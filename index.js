@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "\u2B50Là một ngày đặc biệt của chị iu, cho phép em được gửi tới chị đôi lời sauuu👉👈. Iem mời chị nhấn vào 🎁 để típ tục🫶" //Lời mở đầu cho bức thư
-const mainContentLetter = "Hế luu chị iu, hôm nay 1/11 - một ngày vô cùng đặc biệt của chị àaa ừmm...thì cuối cùng ngày này cũng đã đến, ngày mà em có thể làm và gửi cái này cho chị hihi🤭(hãy hoan hỉ và đón nhận lời chúc này của em nhe😊). Sau đây sẽ là nội dung chính nè😅. Nhân ngày sinh nhật chị Đào iu dấu🎂🥳, iem chúc chi iu ngày càng xinh đẹp hơn(cái này là chắc chắn rùi). Niềm vui hạnh phúc luôn tràn đầy. Sự nghiệp luôn thăng tiến, thành công☘️. Chúc chị có thiệc là nhiều sức khỏe💪 nè. Vàa luôn luôn nở nụ cười thật tươi nhaaa, vì chị cười xinh lắm😄. SINH NHẬT VUI VẺ(chụt chụt💋💋)🎉🎉. Tris";
+const contentLetterSrart_actived = "" //Lời mở đầu cho bức thư
+const mainContentLetter = "";
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
