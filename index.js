@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "" //Lời mở đầu cho bức thư
-const mainContentLetter = "";
+const contentLetterSrart_actived = "Xin chào bạn. Hãy click 🎁 ở dưới" //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc mừng sinh nhật!!!";
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
